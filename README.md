@@ -1,4 +1,4 @@
-# PONG-ALURA
+# JOGO - PONG
 
 Projeto de criação do jogo pong, desenvolvido em Javascript com intuíto de desenvolver a lógica de programação. 
 
